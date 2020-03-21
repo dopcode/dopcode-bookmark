@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>dopcode-bookmark</name>
 	<comment></comment>
 	<projects>
@@ -18,6 +19,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>dopcode-bookmark</name>
+=======
+	<name>test</name>
+>>>>>>> refs/heads/master
 	<comment></comment>
 	<projects>
 	</projects>
